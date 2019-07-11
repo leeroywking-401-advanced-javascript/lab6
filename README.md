@@ -5,7 +5,7 @@
 ### Author: The Artist formerly known as Lee-Roy King
 
 ### Links and Resources
-* [submission PR](https://github.com/leeroywking-401-advanced-javascript/lab6/pull/2)
+* [submission PR](https://github.com/leeroywking-401-advanced-javascript/lab6/pull/1)
 <!-- * [travis](http://xyz.com) No travis -->
 * [back-end](http://xyz.com) no real backend just json-server on local machine
 * [front-end](https://codesandbox.io/embed/api-client-1glbb) (when applicable)
