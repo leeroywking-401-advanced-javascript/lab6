@@ -1,0 +1,25 @@
+{
+  "name": "lab6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeroywking-401-advanced-javascript/lab6.git"
+  },
+  "author": "Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leeroywking-401-advanced-javascript/lab6/issues"
+  },
+  "homepage": "https://github.com/leeroywking-401-advanced-javascript/lab6#readme",
+  "dependencies": {
+    "superagent": "^5.1.0"
+  }
+}

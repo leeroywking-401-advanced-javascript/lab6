@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "a name",
+      "display_name": "display name",
+      "description": "a description"
+    },
+    {
+      "id": 1,
+      "description": "super nice",
+      "display_name": "a thing",
+      "name": "philbert"
+    },
+    {
+      "id": 5,
+      "description": "its okay",
+      "display_name": "a thing",
+      "name": "jonny"
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": "a name",
+      "name": "awesome product",
+      "display_name": "a name",
+      "description": "this is a description"
+    },
+    {
+      "id": 5,
+      "category": "put whatever",
+      "name": "in here"
+    },
+    {
+      "id": 1,
+      "category": "put whatever",
+      "name": "in here"
+    }
+  ]
+}
